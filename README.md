@@ -4,7 +4,7 @@ Made as a last-ditch effort to prepare myself for my exam at school!
 Made with simple HTML, CSS and JavaScript.
 Enjoy! :D
 
-![Image showcasing the wonderful website.]()
+![Image showcasing the wonderful website.](https://github.com/RomanSeps/To-do-list/blob/main/To-do-list.png)
 
 ## Warning
 Since I ain't that skilled, I mean... since there wasn't much time spent into this, there is **NO DARK MODE.**
