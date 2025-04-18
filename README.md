@@ -6,6 +6,15 @@ Enjoy! :D
 
 ![Image showcasing the wonderful website.](https://github.com/RomanSeps/To-do-list/blob/main/To-do-list.png)
 
+## Changelog
+Since I need to practise for my final exams... I decided to work on my to-do-lists!
+You can find my 5th attempt in the file name to-do-list, in this repositary.
+Not to flex or anything, but this file contains stuff I managed to cook up in 20 minutes...
+Hoping I'm ready for those exams...
+Either way, enjoy!
+
+![Image showcasing the NEW version of the website.](To-do-list02.png)
+
 ## Warning
 Since I ain't that skilled, I mean... since there wasn't much time spent into this, there is **NO DARK MODE.**
 Meaning this site can turn deadly if not handled with **CAUTION.**
